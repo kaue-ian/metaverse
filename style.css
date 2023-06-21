@@ -365,7 +365,6 @@ footer {
   min-height: 350px;
   padding: 3rem 1rem;
   grid-row-end: auto;
-  bottom: -280vh;
   border-top: 3px solid #ff014fff;
 }
 
